@@ -1,0 +1,63 @@
+h1 {
+  text-align: center;
+  Font-family: Impact;
+  border: 15px dotted gold;
+  padding: 20px;
+  font-size: 60px;
+  
+}
+
+h2 {
+  Font-family: Courier New;
+  color: darkcyan;
+  Font-size: 28px;
+}
+
+pre {
+  text-align: center;
+  Font-size: 30px;
+}
+
+p {
+  Font-family: Comic Sans MS;
+  text-align: center;
+  Font-size: 22px;
+}
+
+fieldset {
+  margin: 10%;
+}
+
+.goodImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 50px;
+}
+
+td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 20px;
+  Font-family: Candara;
+  Font-size: 22px;
+  text-align: center;
+} 
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  Font-family: Comic Sans MS;
+  Font-size: 20px;
+}
+fieldset {
+  background-image: linear-gradient(aliceblue, powderblue);
+}
